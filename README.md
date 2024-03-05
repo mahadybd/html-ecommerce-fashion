@@ -37,7 +37,7 @@ You can visit the site and explore its various pages:
 
 ## Screenshots
 
-![Home page](https://github.com/yourusername/your-repo/blob/home-page-e.png)
+![Home page](https://github.com/mahadybd/html-ecommerce-fashion/blob/home-page-e.png)
 
 ## Technologies Used
 
