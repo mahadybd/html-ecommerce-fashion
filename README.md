@@ -37,7 +37,7 @@ You can visit the site and explore its various pages:
 
 ## Screenshots
 
-*Insert screenshots or gifs showcasing the various features of the website.*
+![Home page](https://github.com/yourusername/your-repo/blob/home-page-e.png)
 
 ## Technologies Used
 
